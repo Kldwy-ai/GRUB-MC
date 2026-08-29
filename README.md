@@ -64,3 +64,6 @@ for mc_grub/theme.txt
 | UEFI 模式 | UEFI Mode |
 |GRUB 2.06 | ??? |
 
+---
+
+made by 开朗的网友爱玩我的世界
