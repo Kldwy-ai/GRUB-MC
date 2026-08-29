@@ -17,7 +17,7 @@
 >
 > ***第五步***：接下来输入`sudo update-grub`就行了
 ---
-### 如果你是Grub优盘
+### 如果你是Ventoy优盘
 >***第一步***：下载`ventoy.7z`，把解压出来的文件夹直接替换`VTOYEFI/grub/themes`的ventoy文件夹即可，就是这么简单
 
 ---
@@ -43,7 +43,7 @@
 
 ---
 
-### If you are using a GRUB USB drive (Ventoy)
+### If you are using a Ventoy USB drive
 
 > ***Step 1***: Download `ventoy.7z`. Extract the folder inside, and directly replace the existing `ventoy` folder located at `VTOYEFI/grub/themes/` with the extracted one. That's it — simple and done!
 
