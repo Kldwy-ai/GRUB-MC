@@ -1,5 +1,5 @@
 
-# MC-Grub
+# Grub-Mc
 一个Minecraft样式的Grub主题
 
 ---
