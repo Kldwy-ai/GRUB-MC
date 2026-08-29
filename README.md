@@ -1,6 +1,9 @@
+
 # MC-Grub
 一个Minecraft样式的Grub主题
+
 ---
+
 # 安装方法(中文)
 
 ### 如果你是Linux（仅限基于Debian的发行版（如Ubuntu、深度或Debian本体））
@@ -43,3 +46,21 @@
 ### If you are using a GRUB USB drive (Ventoy)
 
 > ***Step 1***: Download `ventoy.7z`. Extract the folder inside, and directly replace the existing `ventoy` folder located at `VTOYEFI/grub/themes/` with the extracted one. That's it — simple and done!
+
+
+---
+# **中英对照：CNS-ENG comparison**
+for mc_grub/theme.txt
+
+
+
+| CNS | ENG |
+|------|------|
+| 快捷键: e=编辑  c=命令行 | Shortcuts: e = edit, c = command line |
+| 按 F1 查看帮助 | Press F1 for help |
+| 按 F2 切换主题 |Press F2 to switch themes |
+| 按 F3 重启系统 | Press F3 to reboot system |
+| 按 F4 关机 | Press F4 to shut down |
+| UEFI 模式 | UEFI Mode |
+|GRUB 2.06 | ??? |
+
